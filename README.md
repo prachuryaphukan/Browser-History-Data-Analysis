@@ -1,7 +1,7 @@
 # Browser-History-Data-Analysis
-Analyze browsing patterns to uncover user behavior trends, productivity insights, and digital engagement metrics.
+Analyzed browsing patterns to uncover user behavior trends, productivity insights, and digital engagement metrics.
 
-📌 Features
+## Features
 Time Trends: Hourly/daily activity heatmaps and peak usage detection
 
 Domain Popularity: Top websites visited via treemap and bar charts
@@ -12,12 +12,12 @@ Session Metrics: Duration distributions and deep engagement identification
 
 Automated Insights: Key findings on communication habits, travel planning, and work-related activity
 
-🛠️ Built With
+## Built With
 Python (Pandas, Matplotlib, Seaborn)
 
 Jupyter Notebook for interactive analysis
 
-🚀 Quick Start
+## Quick Start
 Install dependencies
 
 bash
@@ -31,26 +31,24 @@ Upload your browsing history dataset (CSV/JSON)
 
 Execute cells to generate visualizations and insights
 
-🔍 Key Insights
-🕒 Browsing Patterns
+## Key Insights
+ Browsing Patterns:
 Peak activity at 5 AM and 5-7 PM
 
 72% higher weekday usage vs weekends
 
-🌐 Top Domains
+ Top Domains:
 Google Services (Messages, Flights)
 
 Upwork (Freelance platform)
 
 AWS DynamoDB Console
 
-🧭 Navigation Behavior
+ Navigation Behavior:
 89% link-based transitions
 
 Minimal direct URL typing
 
-📊 Report Highlights (Full PDF)
-Sample Heatmap
 
 Actionable Recommendations
 
