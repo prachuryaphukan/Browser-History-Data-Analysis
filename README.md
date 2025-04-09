@@ -58,7 +58,7 @@ Set flight price alerts for Tokyo trips
 
 Use browser extensions (OneTab/Pocket) for productivity
 
-📂 Data Overview
+## Data Overview
 Sample Dataset Structure
 
 Column	Description
@@ -68,9 +68,7 @@ transition	Navigation method (link/typed)
 title	Page title
 Preprocessing handles missing values, timestamp conversion, and domain extraction.
 
-📜 License
-MIT License - see LICENSE
 
-👨💻 Maintainer: Prachurya Phukan
-"Data-driven behavior insights for better digital habits" 🔍
+Maintainer: Prachurya Phukan
+"Data-driven behavior insights for better digital habits" 
 
